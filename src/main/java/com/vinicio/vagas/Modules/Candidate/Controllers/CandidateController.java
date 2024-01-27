@@ -1,4 +1,4 @@
-package com.vinicio.vagas.Modules.Candidate.Controller;
+package com.vinicio.vagas.Modules.Candidate.Controllers;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
